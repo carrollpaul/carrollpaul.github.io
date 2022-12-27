@@ -23,7 +23,6 @@ keywords:
 - "biotechnology"
 - "compbio"
 - "computationalbiology"
-  author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 
 ---
 
