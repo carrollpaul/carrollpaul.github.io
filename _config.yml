@@ -60,7 +60,7 @@ author:
   bio: "Human being."
   links:
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin-in"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/paulmichaelcarroll/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/carrollpaul"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin-in"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/paulmichaelcarroll/"
 
 defaults:
