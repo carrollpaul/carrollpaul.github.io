@@ -56,7 +56,7 @@ plugins:
 
 author:
   name: "Paul Carroll"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/avatar.jpg"
   bio: "Human being."
   links:
     - label: "LinkedIn"
