@@ -1,10 +1,6 @@
 ---
 permalink: /about/
 title: "About"
----
-
----
-
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
@@ -23,7 +19,6 @@ keywords:
 - "biotechnology"
 - "compbio"
 - "computationalbiology"
-
 ---
 
 ## Skills
